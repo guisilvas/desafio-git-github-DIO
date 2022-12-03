@@ -1,4 +1,7 @@
-COMANDOS DO GIT BASH
+-LINK DOWNLOAD GIT
+https://git-scm.com/download/win
+
+-COMANDOS DO GIT/GITHUB
 
 SETUP 
 git config --global user.name “[name]”
